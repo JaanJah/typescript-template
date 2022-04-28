@@ -1,2 +1,2 @@
 # typescript-template
-Template repository to start off a TypeScript projecrt
+Template repository to start off a TypeScript project
