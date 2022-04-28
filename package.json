@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/JaanJah/typescript-template#readme",
   "devDependencies": {
-    "@jaanjah/prettier-config": "^1.0.1"
+    "@jaanjah/prettier-config": "^1.0.1",
+    "typescript": "^4.6.3"
   }
 }
