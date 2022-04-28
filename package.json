@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Template repository to start off a TypeScript project",
   "main": "src/main.ts",
+  "prettier": "@jaanjah/prettier-config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JaanJah/typescript-template/issues"
   },
-  "homepage": "https://github.com/JaanJah/typescript-template#readme"
+  "homepage": "https://github.com/JaanJah/typescript-template#readme",
+  "devDependencies": {
+    "@jaanjah/prettier-config": "^1.0.1"
+  }
 }
