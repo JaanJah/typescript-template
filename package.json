@@ -1,0 +1,19 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "Template repository to start off a TypeScript project",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaanJah/typescript-template.git"
+  },
+  "author": "JaanJah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaanJah/typescript-template/issues"
+  },
+  "homepage": "https://github.com/JaanJah/typescript-template#readme"
+}
