@@ -1,4 +1,6 @@
-console.log('Test prettier');
+import sum from './util/sum';
+
 function main() {
-	console.log(123);
+	console.log(sum(2, 3));
 }
+main();
