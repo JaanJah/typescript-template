@@ -10,6 +10,7 @@
 	"scripts": {
 		"start": "tsx watch src/main.ts",
 		"fix": "prettier-eslint --write \"src/**/*.ts\"",
+		"lint": "prettier-eslint --list-different \"src/**/*.ts\"",
 		"test": "jest",
 		"prepare": "husky install"
 	},
