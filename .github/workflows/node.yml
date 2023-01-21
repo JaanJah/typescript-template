@@ -16,3 +16,11 @@ jobs:
               run: npm run lint
             - name: Run tests
               run: npm run test
+            - name: Build project
+              run: npm run build
+            - name: Upload build artifact
+              uses: actions/upload-artifact@v3
+              with:
+                  name: build
+                  path: build
+                  retention-days: 3
