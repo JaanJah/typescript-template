@@ -14,7 +14,7 @@
 		"test": "jest",
 		"prepare": "husky install",
 		"upgrade-packages": "npx npm-check-updates -u && npm i",
-		"build": "swc src/*.ts -d build/"
+		"build": "swc ./src -d ./build"
 	},
 	"repository": {
 		"type": "git",
