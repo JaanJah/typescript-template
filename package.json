@@ -5,7 +5,7 @@
 	"main": "src/main.ts",
 	"prettier": "@jaanjah/prettier-config",
 	"engines": {
-		"node": ">=18"
+		"node": ">=20"
 	},
 	"scripts": {
 		"start": "tsx watch src/main.ts",
