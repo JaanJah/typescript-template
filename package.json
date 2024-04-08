@@ -40,6 +40,6 @@
 		"prettier": "^3.2.5",
 		"prettier-eslint-cli": "^8.0.1",
 		"tsx": "^4.7.1",
-		"typescript": "^5.4.3"
+		"typescript": "^5.4.4"
 	}
 }
