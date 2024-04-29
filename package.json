@@ -30,7 +30,7 @@
 		"@jaanjah/eslint-config": "^1.2.1",
 		"@jaanjah/prettier-config": "^1.0.1",
 		"@swc/cli": "^0.3.12",
-		"@swc/core": "^1.4.14",
+		"@swc/core": "^1.4.17",
 		"@swc/jest": "^0.2.36",
 		"@types/jest": "^29.5.12",
 		"@types/node": "^20",
