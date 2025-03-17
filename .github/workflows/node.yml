@@ -2,6 +2,9 @@ name: node
 on: [push]
 jobs:
     node:
+        permissions:
+          contents: read
+          pull-requests: write
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
