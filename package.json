@@ -31,7 +31,7 @@
 	},
 	"homepage": "https://github.com/JaanJah/typescript-template#readme",
 	"devDependencies": {
-		"@jaanjah/eslint-config": "^2.0.1",
+		"@jaanjah/eslint-config": "^2.0.2",
 		"@jaanjah/prettier-config": "^1.0.1",
 		"@swc/cli": "^0.6.0",
 		"@swc/core": "^1.11.10",
