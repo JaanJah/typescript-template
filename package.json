@@ -11,7 +11,7 @@
 		"start": "tsx watch src/main.ts",
 		"fix": "prettier-eslint --write \"src/**/*.ts\"",
 		"lint": "prettier-eslint --list-different \"src/**/*.ts\"",
-		"test": "jest",
+		"test": "vitest",
 		"prepare": "husky",
 		"upgrade-packages": "npx npm-check-updates -u && npm i",
 		"build": "swc ./src -d ./build"
