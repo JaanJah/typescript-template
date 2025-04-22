@@ -33,7 +33,7 @@
 	"devDependencies": {
 		"@jaanjah/eslint-config": "^2.0.2",
 		"@jaanjah/prettier-config": "^1.0.4",
-		"@swc/cli": "^0.6.0",
+		"@swc/cli": "^0.7.3",
 		"@swc/core": "^1.11.21",
 		"@types/node": "^22",
 		"eslint": "^9.25.0",
