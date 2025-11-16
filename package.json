@@ -5,7 +5,7 @@
 	"main": "src/main.ts",
 	"prettier": "@jaanjah/prettier-config",
 	"engines": {
-		"node": ">=22"
+		"node": ">=24"
 	},
 	"scripts": {
 		"start": "tsx watch src/main.ts",
@@ -35,7 +35,7 @@
 		"@jaanjah/prettier-config": "^1.0.4",
 		"@swc/cli": "^0.7.9",
 		"@swc/core": "^1.13.5",
-		"@types/node": "^22",
+		"@types/node": "^24",
 		"eslint": "^9.39.1",
 		"husky": "^9.1.7",
 		"jiti": "^2.6.1",
