@@ -35,7 +35,7 @@
 		"@jaanjah/prettier-config": "^1.0.4",
 		"@swc/cli": "^0.7.9",
 		"@swc/core": "^1.15.8",
-		"@types/node": "^24",
+		"@types/node": "^25",
 		"eslint": "^9.39.2",
 		"husky": "^9.1.7",
 		"jiti": "^2.6.1",
