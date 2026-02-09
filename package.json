@@ -36,7 +36,7 @@
 		"@swc/cli": "^0.7.10",
 		"@swc/core": "^1.15.8",
 		"@types/node": "^24",
-		"eslint": "^9.39.2",
+		"eslint": "^10.0.0",
 		"husky": "^9.1.7",
 		"jiti": "^2.6.1",
 		"lint-staged": "^16.2.7",
